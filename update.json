@@ -1,0 +1,10 @@
+{
+  "loadplay": {
+    "version": "5.0",
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/5.0/LoadPlay.Tools.zip"
+  },
+  "deploy": {
+    "version": "0.1",
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/5.0/_deployment.zip"
+  }
+}
