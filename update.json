@@ -1,11 +1,11 @@
 {
   "loadplay": {
-    "version": "6.3",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/6.3/LoadPlay.Tools.zip"
+    "version": "6.4",
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/6.4/LoadPlay.Tools.zip"
   },
   "deploy": {
     "version": null,
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/6.3/_deployment.zip"
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/6.4/_deployment.zip"
   },
   "steam_old": {
     "version": "29/04/26",
