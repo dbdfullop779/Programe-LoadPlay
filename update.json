@@ -1,15 +1,15 @@
 {
   "loadplay": {
-    "version": "7.9",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/7.9/LoadPlay.Tools.zip"
+    "version": "8.0",
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.0/LoadPlay.Tools.v8.0.zip"
   },
   "check_update": {
-    "version": "7.9",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/7.9/update.7.9.zip"
+    "version": "8.0",
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.0/update.v8.0.zip"
   },
   "deploy": {
     "version": null,
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/7.9/_deployment.zip"
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.0/_deployment.zip"
   },
   "steam_old": {
     "version": "06/09/26",
