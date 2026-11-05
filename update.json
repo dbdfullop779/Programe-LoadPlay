@@ -1,15 +1,15 @@
 {
   "loadplay": {
     "version": "8.4",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.4/LoadPlay.Tools.v8.4.zip"
+    "download_url": "null"
   },
   "check_update": {
     "version": "8.4",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.4/update.v8.4.zip"
+    "download_url": "null"
   },
   "deploy": {
     "version": "8.4.2",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.4/_deployment.v8.4.2.zip"
+    "download_url": "null"
   },
   "steam_old": {
     "version": "06/09/26",
