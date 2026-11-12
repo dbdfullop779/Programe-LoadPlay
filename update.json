@@ -8,11 +8,11 @@
     "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.4/update.v8.4.zip"
   },
   "deploy": {
-    "version": "8.4.2",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.4/_deployment.zip"
+    "version": "8.4.3",
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.4/_deployment.v8.4.3.zip"
   },
   "steam_old": {
-    "version": "06/09/26",
-    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/7.9/Steam.Old.Version.06-09-26.zip"
+    "version": "22/10/26",
+    "download_url": "https://github.com/dbdfullop779/Programe-LoadPlay/releases/download/8.4/Steam.Old.Version.22-10-26.zip"
   }
 }
